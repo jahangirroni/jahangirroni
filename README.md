@@ -33,9 +33,14 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 
 ## 📍 Location & Contact
 
-- 📍 Mason, Ohio, USA
-- 🌐 [jahangirroni.github.io](https://jahangirroni.github.io)
-- 🔗 [linkedin.com/in/roni01](https://linkedin.com/in/roni01)
+- <div class="contact-line">
+    <span>📍 USA – Mason, Ohio</span>
+    <span>📞 281-235-5536</span>
+    <span>✉️ <a href="mailto:jahangir.roni01@gmail.com">jahangir.roni01@gmail.com</a></span>
+    <span>🌐 <a href="https://jahangirroni.github.io">https://jahangirroni.github.io</a></span>
+    <span>💻 <a href="https://github.com/jahangirroni">https://github.com/jahangirroni</a></span>
+    <span>🔗 <a href="https://linkedin.com/in/roni01">https://linkedin.com/in/roni01</a></span>
+</div>
 
 ---
 
