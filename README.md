@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jahangir Roni
 
-<!--
-**jahangirroni/jahangirroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**𝟭𝟳+ 𝗬𝗲𝗮𝗿𝘀 𝗩𝗮𝗿𝗶𝗼𝘂𝘀 𝗥𝗼𝗹𝗲𝘀 𝗕𝗮𝘀𝗲𝗱 𝗢𝗻 𝗖𝗹𝗶𝗲𝗻𝘁 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀: 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 → 𝗘𝗧𝗟 → 𝗗𝗲𝘃𝗢𝗽𝘀 → 𝗖𝗹𝗼𝘂𝗱 → 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 → 𝗦𝗢𝗖/𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 → 𝗚𝗥𝗖**
 
-Here are some ideas to get you started:
+AWS Certified DevOps Engineer & Security Specialty professional with **17+ years** of experience delivering enterprise cloud transformation, data modernization, DevOps automation, security compliance, and governance solutions for Fortune 100/500 organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Summary
+
+Results-driven Cloud Architect and Technical Leader with validated expertise in:
+
+- ☁️ **Cloud:** AWS, Azure, Microsoft Fabric
+- 🔧 **DevOps:** CI/CD, Infrastructure as Code, DevSecOps
+- 📊 **Data Engineering:** ETL/ELT, Lakehouse, Data Warehouse, AI-driven analytics
+- 🔒 **Security:** AWS Security Specialty, GRC frameworks
+- ✅ **Compliance:** GDPR, HIPAA, SOC2
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| 🔐 AWS Certified DevOps Engineer – Professional | Amazon Web Services |
+| 🔒 AWS Certified Security – Specialty | Amazon Web Services |
+| ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| 🛡️ CompTIA Security+ | CompTIA |
+| ❄️ Snowflake SnowPro Core | Snowflake |
+| 📊 Informatica PowerCenter Data Integrator Specialist | Informatica |
+
+---
+
+## 📍 Location & Contact
+
+- 📍 Mason, Ohio, USA
+- 🌐 [jahangirroni.github.io](https://jahangirroni.github.io)
+- 🔗 [linkedin.com/in/roni01](https://linkedin.com/in/roni01)
+
+---
+
+<p align="center">
+  <i>Seeking: Data Engineer | DevOps Engineer | Cyber Security Analyst | Security Engineer | Senior Compliance Analyst</i>
+</p>
