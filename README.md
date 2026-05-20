@@ -76,3 +76,47 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 ---
 
 *Seeking: Data Engineer | DevOps Engineer | Cyber Security Analyst | Security Engineer | Senior Compliance Analyst*
+## Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| AWS Certified DevOps Engineer – Professional | Amazon Web Services |
+| AWS Certified Security – Specialty | Amazon Web Services |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| CompTIA Security+ | CompTIA |
+| Snowflake SnowPro Core | Snowflake |
+| Informatica PowerCenter Data Integrator Specialist | Informatica |
+
+---
+
+## Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| Cloud Native Platform | EKS + GitOps + Observability stack | In Progress |
+| Terraform AWS Modules | Reusable infrastructure modules | Planned |
+
+*Live projects will appear here soon. Check back for production-grade DevOps implementations.*
+
+---
+
+## Location & Contact
+
+- USA – Mason, Ohio
+- 281-235-5536
+- jahangir.roni01@gmail.com
+- https://jahangirroni.github.io
+- https://github.com/jahangirroni
+- https://linkedin.com/in/roni01
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangirroni&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahangirroni&theme=dark)
+
+---
+
+*Seeking: Data Engineer | DevOps Engineer | Cyber Security Analyst | Security Engineer | Senior Compliance Analyst*
