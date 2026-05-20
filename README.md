@@ -1,7 +1,6 @@
 Hi, I'm Jahangir Roni
 <img src="https://img.shields.io/badge/Test-Brightgreen?style=for-the-badge" />
 
-
 **17+ Years Various Roles Based On Client Requirements: Databases → ETL → DevOps → Cloud → Security → SOC/Compliance → GRC**
 
 AWS Certified DevOps Engineer & Security Specialty professional with 17+ years of experience delivering enterprise cloud transformation, data modernization, DevOps automation, security compliance, and governance solutions for Fortune 100/500 organizations.
