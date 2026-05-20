@@ -1,11 +1,6 @@
 Hi, I'm Jahangir Roni
+<img src="https://img.shields.io/badge/Test-Brightgreen?style=for-the-badge" />
 
-![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **17+ Years Various Roles Based On Client Requirements: Databases → ETL → DevOps → Cloud → Security → SOC/Compliance → GRC**
 
