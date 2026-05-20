@@ -1,11 +1,6 @@
 # Hi, I'm Jahangir Roni
 
-[![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps_Professional-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://terraform.io)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps_Professional-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com) [![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://terraform.io) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
 **𝟭𝟳+ 𝗬𝗲𝗮𝗿𝘀 𝗩𝗮𝗿𝗶𝗼𝘂𝘀 𝗥𝗼𝗹𝗲𝘀 𝗕𝗮𝘀𝗲𝗱 𝗢𝗻 𝗖𝗹𝗶𝗲𝗻𝘁 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀: 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 → 𝗘𝗧𝗟 → 𝗗𝗲𝘃𝗢𝗽𝘀 → 𝗖𝗹𝗼𝘂𝗱 → 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 → 𝗦𝗢𝗖/𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 → 𝗚𝗥𝗖**
 
