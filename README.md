@@ -46,13 +46,10 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 
 ## Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [URL Shortener](https://github.com/jahangirroni/url-shortener) | Serverless URL shortener with AWS Lambda, API Gateway, DynamoDB | ✅ Live |
-| [Cloud Native Platform](https://github.com/jahangirroni/cloud-native-platform) | EKS + GitOps + Observability stack | 🚧 In Progress |
-| [Terraform AWS EC2](https://github.com/jahangirroni/terraform-on-aws-ec2) | Reusable Terraform modules for EC2 | 📝 Planned |
-
-*Click on any project to see the code.*
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [URL Shortener](https://github.com/jahangirroni/url-shortener) | Serverless URL shortener | AWS Lambda, API Gateway, DynamoDB, Terraform |
+| Cloud Native Platform | EKS + GitOps + Observability (coming soon) | AWS EKS, ArgoCD, Prometheus, Grafana |
 ---
 
 ## Location & Contact
