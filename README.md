@@ -1,11 +1,10 @@
 # Hi, I'm Jahangir Roni
-
-![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps_Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-DevOps_Pro-232F3E?logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Security_Specialty-232F3E?logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ```
 
 **17+ Years Various Roles Based On Client Requirements: Databases → ETL → DevOps → Cloud → Security → SOC/Compliance → GRC**
