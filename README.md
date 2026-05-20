@@ -1,5 +1,5 @@
 Hi, I'm Jahangir Roni
-<img src="https://img.shields.io/badge/Test-Brightgreen?style=for-the-badge" />
+
 
 **17+ Years Various Roles Based On Client Requirements: Databases → ETL → DevOps → Cloud → Security → SOC/Compliance → GRC**
 
