@@ -43,13 +43,12 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 | Informatica PowerCenter Data Integrator Specialist | Informatica |
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| [DevOps Platform on EKS](https://github.com/jahangirroni/myapp-eks) | Full-stack DevOps platform: EKS metrics, URL shortener, DevSecOps pipeline visualization | [▶ Click to Run](http://a3179487bba3744c5aa4adda8ff5b493-1887211603.us-east-1.elb.amazonaws.com) |
-| [Terraform EKS Infrastructure](https://github.com/jahangirroni/cloud-native-platform) | Production-grade EKS cluster with VPC, node groups, IAM roles | 🚧 Infrastructure as Code |
+| [DevOps Platform on EKS](https://github.com/jahangirroni/myapp-eks) | Full-stack DevOps platform: EKS cluster metrics, URL shortener API, and DevSecOps pipeline visualization | [http://a3179487bba3744c5aa4adda8ff5b493-1887211603.us-east-1.elb.amazonaws.com](http://a3179487bba3744c5aa4adda8ff5b493-1887211603.us-east-1.elb.amazonaws.com) |
+| [Terraform EKS Infrastructure](https://github.com/jahangirroni/cloud-native-platform) | Production-grade AWS EKS cluster with VPC, public/private subnets, NAT gateways, and auto-scaling node groups | [https://github.com/jahangirroni/cloud-native-platform](https://github.com/jahangirroni/cloud-native-platform) |
 
 ## Location & Contact
 
