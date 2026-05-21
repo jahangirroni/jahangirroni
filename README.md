@@ -46,10 +46,10 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 
 ## Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Hello World EKS](https://github.com/jahangirroni/hello-world-eks) | Live nginx on AWS EKS cluster with LoadBalancer | ✅ Live |
-| [Cloud Native Platform](https://github.com/jahangirroni/cloud-native-platform) | EKS + Terraform + GitOps + Observability | 🚧 In Progress |
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| [MyApp on EKS](https://github.com/jahangirroni/myapp-eks) | Flask app on AWS EKS with Terraform | [Click Here](http://a3179487bba3744c5aa4adda8ff5b493-1887211603.us-east-1.elb.amazonaws.com) |
+| [Hello World EKS](https://github.com/jahangirroni/hello-world-eks) | nginx on EKS | [Click Here](http://af7ed36f3754243109d11d7cf4f75956-1384700731.us-east-1.elb.amazonaws.com) |
 ---
 
 ## Location & Contact
