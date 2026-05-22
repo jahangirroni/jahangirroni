@@ -47,8 +47,8 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| [DevOps Platform on EKS](https://github.com/jahangirroni/myapp-eks) | Full-stack DevOps platform: EKS cluster metrics, URL shortener API, and DevSecOps pipeline visualization | [http://a3179487bba3744c5aa4adda8ff5b493-1887211603.us-east-1.elb.amazonaws.com](http://a3179487bba3744c5aa4adda8ff5b493-1887211603.us-east-1.elb.amazonaws.com) |
-| [Terraform EKS Infrastructure](https://github.com/jahangirroni/cloud-native-platform) | Production-grade AWS EKS cluster with VPC, public/private subnets, NAT gateways, and auto-scaling node groups | [https://github.com/jahangirroni/cloud-native-platform](https://github.com/jahangirroni/cloud-native-platform) |
+| [DevOps Platform on EKS](https://github.com/jahangirroni/myapp-eks) | Production-grade Flask app on AWS EKS with CI/CD, security scans, and monitoring | [▶ Click to Run](http://ade5353f712aa41b0b3fabab15e1d235-278389330.us-east-1.elb.amazonaws.com) |
+| [Terraform EKS Infrastructure](https://github.com/jahangirroni/cloud-native-platform) | Infrastructure as Code for EKS cluster with VPC, node groups, and IAM | [View Code](https://github.com/jahangirroni/cloud-native-platform) |
 
 ## Location & Contact
 
