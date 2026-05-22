@@ -47,7 +47,7 @@ Results-driven Cloud Architect and Technical Leader with validated expertise in:
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| [DevOps Platform on EKS](https://github.com/jahangirroni/myapp-eks) | Production-grade Flask app on AWS EKS with CI/CD, security scans, and monitoring | [▶ Click to Run](http://ade5353f712aa41b0b3fabab15e1d235-278389330.us-east-1.elb.amazonaws.com) |
+| [DevOps Platform on EKS](https://github.com/jahangirroni/myapp-eks) | Production-grade Flask app on AWS EKS with CI/CD, security scans, and monitoring | http://ade5353f712aa41b0b3fabab15e1d235-278389330.us-east-1.elb.amazonaws.com
 | [Terraform EKS Infrastructure](https://github.com/jahangirroni/cloud-native-platform) | Infrastructure as Code for EKS cluster with VPC, node groups, and IAM | [View Code](https://github.com/jahangirroni/cloud-native-platform) |
 
 ## Location & Contact
