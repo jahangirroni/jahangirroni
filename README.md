@@ -1,9 +1,14 @@
 Hi, I'm Jahangir Roni
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-DevOps_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Security_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 
-**17+ Years Various Roles Based On Client Requirements: Databases → ETL → DevOps → Cloud → Security → SOC/Compliance → GRC**
-
-AWS Certified DevOps Engineer & Security Specialty professional with 17+ years of experience delivering enterprise cloud transformation, data modernization, DevOps automation, security compliance, and governance solutions for Fortune 100/500 organizations.
 
 ---
 
